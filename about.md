@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: Profile
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi there! My name is Jiheon Lee.
+  Interests : Microelectronics, Neurotechnology, Machine Learning, Biosensors
 </p>
 
-## About BlackDoc Theme
+### Jiheon Lee
 
-Some relevant information about this project:
+![Small Test Image](https://unsplash.imgix.net/photo-1429371527702-1bfdc0eeea7d)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
-
+* M.S. & Ph.D. candidate in Biomedical Electronics Lab
+* College of Engineering, Seoul National University
+* Department of Biomedical Engineering
+* Tel : +82-10-6522-7214
+* Email : easyhhoney@snu.ac.kr
+* Web : BMEEL(https://bmeel.snu.ac.kr)
