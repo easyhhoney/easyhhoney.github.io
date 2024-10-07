@@ -86,7 +86,7 @@ a:hover {
 
 strong,
 b {
-  color: #bb8a8e;
+  color: #DEB3B6;
 }
 /* Code */
 
@@ -284,7 +284,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #bb8a8e;
+  color: #DEB3B6;
 }
 
 /*
@@ -376,11 +376,11 @@ a.sidebar-nav-item:focus {
 
 /* Magenta */
 .theme-base-0e .sidebar {
-  background-color: #aa759f;
+  background-color: #DEB3B6;
 }
 .theme-base-0e .content a,
 .theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
+  color: #DEB3B6;
 }
 
 /* Brown */
