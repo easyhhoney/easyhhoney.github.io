@@ -5,7 +5,6 @@ title: Profile
 
 <p class="message">
   Hi there! My name is Jiheon Lee.
-  
   Interests : Microelectronics, Neurotechnology, Machine Learning, Biosensors
 </p>
 
