@@ -65,7 +65,7 @@ a {
 }
 
 a:hover {
-  color: #caad00;
+  color: #f9f79c;
 }
 
 .btn {
@@ -86,7 +86,7 @@ a:hover {
 
 strong,
 b {
-  color: #DEB3B6;
+  color: #bb8a8e;
 }
 /* Code */
 
@@ -284,7 +284,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #DEB3B6;
+  color: #bb8a8e;
 }
 
 /*
