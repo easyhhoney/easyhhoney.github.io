@@ -2,6 +2,5 @@
 
 layout: category
 
-title: ML
-
+title: ml
 ---
