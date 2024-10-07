@@ -38,13 +38,12 @@
       {% comment %}
         The code below dynamically generates a list of categories.
       {% endcomment %}
+      
       <h2>Categories</h2>
-      {% assign categories = site.categories %}
       <ul>
-        {% for category in categories %}
+        {% for category in site.categories %}
           <li>
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}/categories/{{ category[0] | slugify | relative_url }}">
-              {{ category[0] }} ({{ category[1].size }})
+            <a class="sidebar-nav-item" href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}">{{ category[0] }} ({{ category[1].size }})</a>
             </a>
           </li>
         {% endfor %}
