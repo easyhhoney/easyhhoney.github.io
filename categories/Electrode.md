@@ -2,6 +2,6 @@
 
 layout: category
 
-title: blog
+title: Electrode
 
 ---

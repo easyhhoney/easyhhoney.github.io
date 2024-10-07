@@ -10,7 +10,7 @@ title: Profile
 
 ### Jiheon Lee
 
-![Small Test Image](https://unsplash.imgix.net/photo-1429371527702-1bfdc0eeea7d)
+![Small Test Image](https://easyhhoney.github.io/public/images/IMG_6812.jpeg)
 
 * M.S. & Ph.D. candidate in Biomedical Electronics Lab
 * College of Engineering, Seoul National University
