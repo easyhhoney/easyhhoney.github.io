@@ -48,6 +48,6 @@ categories: electrode
 
 
 ### 신경 보철에서 요구되는 Chage/phase와 charge density 제한 범위
-![Charge/Phase Image](https://easyhhoney/easyhhoney.github.io/_posts/image_2.jpeg) <br>
+![Charge/Phase Image](https://easyhhoney.github.io/_posts/image_2.jpeg) <br>
 
 * * *
