@@ -36,7 +36,7 @@ categories: electrode
 
 ### Cathodal Protect Waveform
 
-   ![Cathodal Image](https://easyhhoney.github.io/_posts/image.png)
+   ![Cathodal Image](_posts/image.png)
 
    * Leading phase <br>
       leading phase를 cathodal하게 혹은 anodal하게 설정하는 것은 사용자의 정의에 따라 다름. <br>
@@ -48,6 +48,6 @@ categories: electrode
 
 
 ### 신경 보철에서 요구되는 Chage/phase와 charge density 제한 범위
-![Charge/Phase Image](https://easyhhoney.github.io/_posts/image_2.jpeg) <br>
+![Charge/Phase Image](_posts/image_2.jpeg) <br>
 
 * * *
