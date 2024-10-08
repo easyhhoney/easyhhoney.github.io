@@ -4,13 +4,10 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-#  Uncomment the line below to use GitHub Pages compatible environment
-gem "github-pages", group: :jekyll_plugins
-
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.3.4"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
