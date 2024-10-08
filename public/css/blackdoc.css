@@ -190,7 +190,8 @@ tbody tr:nth-child(odd) th {
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, .5);
   background-color: #000;
-  overflow: auto;
+  max-height: 100vh;
+  overflow-y: auto;
 }
 @media (min-width: 48em) {
   .sidebar {
