@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stimulation Electrode - Charge Balance"
-date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [electrode]
+date: 2024-10-07 18:00:00 +09:00
+categories: electrode
 ---
 
 * * *
