@@ -8,7 +8,7 @@ title: {{ page.title }}
   {% for post in site.posts %}
     {% if post.categories contains page.title %}
       <article>
-        <h3><a href="{{ post.url }}" class="category-link">{{ post.title }}</a></h3>
+        <h3><a href="{{ site.baseurl }}{{ post.url }}" class="category-link">{{ post.title }}</a></h3>
         <p>{{ post.excerpt | truncatewords: 30 }}</p>
       </article>
     {% endif %}
