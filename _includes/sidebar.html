@@ -9,12 +9,8 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-
-
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter.
@@ -30,10 +26,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-
       <hr>
-
 
       {% comment %}
         The code below dynamically generates a list of categories.
@@ -49,15 +42,11 @@
           </li>
         {% endfor %}
       </ul>
-
-
       <hr>
-
 
       <a class="sidebar-nav-item" href="https://github.com/easyhhoney/easyhhoney.github.io/projects?query=is%3Aopen">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
