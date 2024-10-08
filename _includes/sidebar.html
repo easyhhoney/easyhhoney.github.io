@@ -36,7 +36,7 @@
       <ul>
         {% for category in site.categories %}
           <li>
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}/categories/{{ category[0] | slugify | relative_url }}">
+            <a class="sidebar-nav-item" href="{{ '/categories/' | append: category[0] | slugify | relative_url }}">
               {{ category[0] }} ({{ category[1].size }})
             </a>
           </li>
