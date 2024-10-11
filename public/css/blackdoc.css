@@ -34,6 +34,7 @@ html {
 body {
   color: #848482;
   background-color: #000000;
+  line-height: 1.8;
 }
 
 h1,
@@ -88,6 +89,17 @@ strong,
 b {
   color: #bb8a8e;
 }
+
+.highlight-lemon {
+  color: rgb(176, 168, 111);
+}
+
+.highlight-green {
+  color:#84a19a;
+}
+
+
+
 /* Code */
 
 code {
